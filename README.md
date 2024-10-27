@@ -43,7 +43,3 @@ FastAPI가 제공하는 자동 생성 문서 화면입니다. 이 화면을 통�
     "description": "This is a test item"
   }
 ![아이템 생성,조회](https://github.com/qlanfr/api/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-10-27%2016-41-06.png)
-
------
-## db 구성도
-![db 구성도](https://github.com/qlanfr/api/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-10-27%2016-39-01.png)
